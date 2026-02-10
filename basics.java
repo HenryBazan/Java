@@ -4,10 +4,10 @@ public class basics
     {
         System.out.println("Recap");
 
-     int result = add(3, 5);
-     System.out.println(result);
+        int result = add(3, 5);
+        System.out.println(result);
 
-       subtract(12, 6);
+        subtract(12, 6);
 
        // int multiple = mult(7, 2);
 
@@ -24,7 +24,7 @@ public class basics
     {
         System.out.println(c - d); 
     }
-    
+
  /*
     
 
